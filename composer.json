@@ -1,21 +1,26 @@
 {
-    "name": "laravel/framework",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "jairhumberto/laravel58-php8",
+    "description": "Fork do Laravel 5.8 com suporte ao PHP 8.",
+    "keywords": ["framework", "laravel", "php8", "fork"],
     "license": "MIT",
-    "homepage": "https://laravel.com",
+    "homepage": "https://github.com/jairhumberto/laravel58-php8",
     "support": {
-        "issues": "https://github.com/laravel/framework/issues",
-        "source": "https://github.com/laravel/framework"
+        "issues": "https://github.com/jairhumberto/laravel58-php8/issues",
+        "source": "https://github.com/jairhumberto/laravel58-php8"
     },
     "authors": [
         {
             "name": "Taylor Otwell",
             "email": "taylor@laravel.com"
+        },
+        {
+            "name": "Jair Humberto",
+            "email": "jairhumberto@gmail.com",
+            "role": "Maintainer"
         }
     ],
     "require": {
-        "php": "^7.1.3",
+        "php": "^8.0",
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-openssl": "*",
