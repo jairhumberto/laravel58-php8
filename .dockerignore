@@ -1,0 +1,16 @@
+vendor
+Dockerfile
+.dockerignore
+.editorconfig
+.gitignore
+.gitattributes
+.github
+.styleci.yml
+.travis.yml
+CHANGELOG-5.7.md
+CHANGELOG-5.8.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+SECURITY.md
